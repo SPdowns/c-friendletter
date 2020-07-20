@@ -4,3 +4,11 @@ C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\net
 C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.RazorAssemblyInfo.cs
 C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.AssemblyInfoInputs.cache
 C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.AssemblyInfo.cs
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\bin\Debug\netcoreapp2.2\FriendLetter.deps.json
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\bin\Debug\netcoreapp2.2\FriendLetter.runtimeconfig.json
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\bin\Debug\netcoreapp2.2\FriendLetter.runtimeconfig.dev.json
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\bin\Debug\netcoreapp2.2\FriendLetter.dll
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\bin\Debug\netcoreapp2.2\FriendLetter.pdb
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.RazorTargetAssemblyInfo.cache
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.dll
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.pdb

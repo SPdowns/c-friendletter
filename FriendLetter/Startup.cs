@@ -21,7 +21,6 @@ namespace FriendLetter
     {
       services.AddMvc();
     }
-
     public void Configure(IApplicationBuilder app)
     {
       app.UseMvc(routes =>
