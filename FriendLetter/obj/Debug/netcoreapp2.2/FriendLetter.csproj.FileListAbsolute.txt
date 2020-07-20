@@ -12,3 +12,12 @@ C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\bin\Debug\net
 C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.RazorTargetAssemblyInfo.cache
 C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.dll
 C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.pdb
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\bin\Debug\netcoreapp2.2\FriendLetter.Views.dll
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\bin\Debug\netcoreapp2.2\FriendLetter.Views.pdb
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.TagHelpers.input.cache
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.TagHelpers.output.cache
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.RazorCoreGenerate.cache
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\Razor\Views\Home\Letter.g.cshtml.cs
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.RazorTargetAssemblyInfo.cs
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.Views.pdb
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.csproj.CopyComplete

@@ -32,7 +32,7 @@ namespace FriendLetter
 
       app.Run(async (context) =>
       {
-        await context.Response.WriteAsync("Greetings, Earthlings!");
+        await context.Response.WriteAsync("Greetings, Earthlings! Hello, over there");
       });
     }
   }

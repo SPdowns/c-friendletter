@@ -2959,6 +2959,12 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "FriendLetter",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\zentr\\desktop\\epicodus\\week8\\letter.solution\\FriendLetter\\Views\\Home\\Letter.cshtml",
+      "TargetPath": "Views\\Home\\Letter.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
