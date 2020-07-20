@@ -1,0 +1,6 @@
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.csprojAssemblyReference.cache
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.csproj.CoreCompileInputs.cache
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.RazorAssemblyInfo.cache
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.RazorAssemblyInfo.cs
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.AssemblyInfoInputs.cache
+C:\Users\zentr\desktop\epicodus\week8\letter.solution\friendletter\obj\Debug\netcoreapp2.2\FriendLetter.AssemblyInfo.cs
